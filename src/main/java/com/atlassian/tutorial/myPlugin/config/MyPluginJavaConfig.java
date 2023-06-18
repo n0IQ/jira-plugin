@@ -19,9 +19,8 @@ import static com.atlassian.plugins.osgi.javaconfig.OsgiServices.importOsgiServi
         ModuleFactoryBean.class,
         PluginAccessorBean.class
 })
+
 public class MyPluginJavaConfig {
-
-
     // imports ApplicationProperties from OSGi
     @Bean
     public ApplicationProperties applicationProperties() {
