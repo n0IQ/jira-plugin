@@ -1,4 +1,19 @@
-You have successfully created an Atlassian Plugin!
+# Jira Plugin
+In this project, we used Atlassian Plugin SDK to create a new Jira Plugin.
+
+## Features
+- A new admin page which is only accessible to admin.
+- Admin can view all of the projects along with its issues.
+- Admin can delete the project.
+
+## Tech Stack
+
+The project is built using the following technologies:
+
+- **AtlasKit**
+- **Jira**
+- **React**
+- **Java**
 
 Here are the SDK commands you'll use immediately:
 
