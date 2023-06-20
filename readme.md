@@ -1,5 +1,5 @@
 # Jira Plugin
-In this project, we used Atlassian Plugin SDK to create a new Jira Plugin.
+In this project, we used Atlassian Plugin SDK to create a new Jira Plugin. Frontend is built using React and AtlasKit UI Library provided by the Atlassian Developer Tools.
 
 ## Features
 - A new admin page which is only accessible to admin.
