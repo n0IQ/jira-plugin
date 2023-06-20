@@ -10,6 +10,5 @@ public class AdminPageWebworkAction extends JiraWebActionSupport {
     @Override
     public String execute() throws Exception {
         return "Admin Page";
-//                super.execute(); //returns SUCCESS
     }
 }
