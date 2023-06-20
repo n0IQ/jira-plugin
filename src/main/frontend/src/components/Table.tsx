@@ -32,7 +32,7 @@ export const fetchProjectData = async () => {
           }
         );
 
-        const issueCount = issueResponse.data.total;
+        const issueCount = issueResponse.data.length;
 
         return {
           key: project.key,
